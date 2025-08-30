@@ -18,7 +18,7 @@ as a Tier 1 Analyst.
 
 | Skill                                        | Associated Project |
 |----------------------------------------------|--------------------|
-| SIEM Implementation and Log Analysis         | <a href="https://github.com/Moe-Sanyang/Moe-Sanyang/tree/main/SIEM-Lab" target="_blank"> Lab</a> |
+| SIEM Implementation and Log Analysis         | <a href="https://github.com/Moe-Sanyang/Moe-Sanyang/tree/main/SIEM-Lab" target="_blank">Detection Lab</a> |
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Moe-Sanyang/Moe-Sanyang/tree/main/Detection-Lab" target="_blank">Detection Lab</a> |
 | Security Automation with Shuffle SOAR        | <a href="https://github.com/Moe-Sanyang/Moe-Sanyang/tree/main/SOC-Automation" target="_blank">SOC Automation Lab</a> |
 | Incident Response Planning and Execution     | <a href="https://github.com/Moe-Sanyang/Moe-Sanyang/tree/main/Incident-Response" target="_blank">Incident Response Lab</a> |
