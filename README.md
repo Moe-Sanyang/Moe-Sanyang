@@ -7,18 +7,18 @@
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-My journey in computer application has led me to develop a passion for cybersecurity, and I am now
+My journey in computer applications has led me to develop a passion for cybersecurity, and I am now
 eager to transition into this field, specifically aiming to join a Security Operations Center (SOC)
 as a Tier 1 Analyst.
 
 ## Skills
-[Skills and associated prijects]
+[Skills and associated projects]
 
 ## 🛡️ Cybersecurity Skills & Projects
 
 | Skill                                        | Associated Project |
 |----------------------------------------------|--------------------|
-| SIEM Implementation and Log Analysis         | <a href="https://github.com/Moe-Sanyang/Moe-Sanyang/tree/main/SIEM-Lab" target="_blank">SIEM Lab</a> |
+| SIEM Implementation and Log Analysis         | <a href="https://github.com/Moe-Sanyang/Moe-Sanyang/tree/main/SIEM-Lab" target="_blank"> Lab</a> |
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Moe-Sanyang/Moe-Sanyang/tree/main/Detection-Lab" target="_blank">Detection Lab</a> |
 | Security Automation with Shuffle SOAR        | <a href="https://github.com/Moe-Sanyang/Moe-Sanyang/tree/main/SOC-Automation" target="_blank">SOC Automation Lab</a> |
 | Incident Response Planning and Execution     | <a href="https://github.com/Moe-Sanyang/Moe-Sanyang/tree/main/Incident-Response" target="_blank">Incident Response Lab</a> |
@@ -61,7 +61,7 @@ as a Tier 1 Analyst.
   </a>
 
 ## Projects
-- Detection Lab
+<a href="https://github.com/Moe-Sanyang/Moe-Sanyang/tree/main/SIEM-Lab" target="_blank">Detection Lab</a>
 - SOC Automation Project
 - Test Project
 
